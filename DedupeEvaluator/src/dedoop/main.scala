@@ -1,5 +1,0 @@
-package dedoop
-
-class main {
-
-}
