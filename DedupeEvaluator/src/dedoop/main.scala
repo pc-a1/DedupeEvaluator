@@ -1,0 +1,5 @@
+package dedoop
+
+class main {
+
+}
